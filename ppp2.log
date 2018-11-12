@@ -1,0 +1,55 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> 
+epi =
+
+    0.3000
+
+>> 
+k2 =
+
+   -1.9718
+
+>> 
+gammay =
+
+     1
+
+>> >> 
+k =
+
+   5.0000e-05
+
+>> 
+h =
+
+    0.0500
+
+>> 
+dim =
+
+   399
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> 
+times =
+
+      800000
+
+>> >> >> >> >> >> >> >> >> >> bicgstab converged at iteration 1 to a solution with relative residual 5e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 9e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 3.6e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.5e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.4e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.4e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.4e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.4e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.3e-08.
+bicgstab converged at iteration 1 to a solution with relative residual 1.3e-08.
